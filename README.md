@@ -6,3 +6,4 @@ My Personal Awesome List
   - [https://scribblediffusion.com/](https://scribblediffusion.com/)
   - [https://chat.openai.com](https://chat.openai.com)
   - [https://labs.openai.com/](https://labs.openai.com/)
+  - [https://freechatgpt.chat/](https://freechatgpt.chat/)
