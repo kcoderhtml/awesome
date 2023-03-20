@@ -10,3 +10,5 @@ My Personal Awesome List
   - [https://writeout.ai](https://writeout.ai)
 - ### Images
   - [https://shots.so/](https://shots.so/)
+- ### Browsers
+  - [https://arc.net/](https://arc.net/)
