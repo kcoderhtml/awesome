@@ -12,3 +12,5 @@ My Personal Awesome List
   - [https://shots.so/](https://shots.so/)
 - ### Browsers
   - [https://arc.net/](https://arc.net/)
+- ### Markdown
+  - [https://github.com/typst/typst](https://github.com/typst/typst)
