@@ -15,3 +15,5 @@ My Personal Awesome List
   - [https://arc.net/](https://arc.net/)
 - ### Markdown
   - [https://github.com/typst/typst](https://github.com/typst/typst)
+- ### Google
+  - [https://assistant.google.com/settings/routines](https://assistant.google.com/settings/routines)
