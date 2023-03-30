@@ -9,6 +9,7 @@ My Personal Awesome List
   - [https://freechatgpt.chat/](https://freechatgpt.chat/)
   - [https://writeout.ai](https://writeout.ai)
   - [https://github.com/LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)
+  - [https://github.com/di-sukharev/opencommit](https://github.com/di-sukharev/opencommit)
 - ### Images
   - [https://shots.so/](https://shots.so/)
 - ### Browsers
