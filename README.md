@@ -41,3 +41,5 @@ My Personal Awesome List
     ```
 - ### CSS
   - [https://gradient.style/](https://gradient.style/)
+- ### Blogs
+  - [https://www.izzy.co/blog.html](https://www.izzy.co/blog.html)
