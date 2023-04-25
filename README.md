@@ -43,3 +43,4 @@ My Personal Awesome List
   - [https://gradient.style/](https://gradient.style/)
 - ### Blogs
   - [https://www.izzy.co/blog.html](https://www.izzy.co/blog.html)
+  - [https://gregives.co.uk/](https://gregives.co.uk/)
